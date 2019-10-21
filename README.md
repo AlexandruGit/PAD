@@ -1,10 +1,9 @@
-## PAD, LAB1
+# PAD, LAB1
  
 ## Simple TCP MessageBroker/BrokerClient
 
-Language: JavaScript
+**Language**: JavaScript
 
-Framework: NodeJS
+**Framework**: NodeJS
 
-
-Author: Alexandru Enachi
+**Author**: Alexandru Enachi
